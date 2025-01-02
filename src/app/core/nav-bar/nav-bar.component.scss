@@ -1,0 +1,32 @@
+
+  
+.navbar {
+    background: linear-gradient(to right, #2d3b2f, #5a6e4e); /* Koyu yeşilden açık yeşile geçiş */
+    transition: background 0.5s ease;
+    background-color: #1dd03b; /* Ordu yeşili */
+    color: white;
+  }
+  .navbar:hover {
+    background: linear-gradient(to right, #5a6e4e, #2d3b2f); /* Geçişi tersine çevirir */
+  }
+  .navbar-brand, .nav-link {
+    color: white !important;
+  }
+
+  .nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+
+  .nav-link.disabled {
+    color: gray !important;
+  }
+  .mmulogo{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }

@@ -1,0 +1,53 @@
+$navbar-height: 119px; // Navbar yüksekliği
+
+.bgc {
+  width: 100%;
+  height: 80vh; /* Tam ekran yüksekliği */
+  background: linear-gradient(to right, #2d3b2f, #5a6e4e); /* Koyu yeşilden açık yeşile geçiş */
+  display: flex;
+  align-items: center; /* Dikey ortalama */
+  justify-content: center; /* Yatay ortalama */
+  box-sizing: border-box;
+  transition: background 0.5s ease; /* Geçiş süresi */
+}
+  .img1 {
+    height: 50%;
+    object-fit: cover;
+    justify-content: center;
+    display: flex;
+  }
+  .word{
+    color: #fff;
+    text-align: center;
+  }
+ 
+
+/* Carousel İçeriğinin Yatay Ortalanması */
+.carousel-inner .row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Carousel Görsellerinin Boyutunu Standart Hale Getirme */
+.imageslide2 {
+    width: 100%;           /* Genişlik: %100 */
+    height: 300px;         /* Sabit yükseklik */
+    object-fit: cover;     /* Görseli kırpmadan kapsayıcıya sığdır */
+    object-position: center; /* Görselin merkezini hizala */
+    border-radius: 5px;    /* Köşeleri yumuşatmak için (isteğe bağlı) */
+  }
+  
+// .carousel-item img {
+//     width: 100%;           /* Genişlik: Kapsayıcı kadar */
+//     height: 350px;         /* Sabit yükseklik */
+//     object-fit: cover;     /* Taşan kısımları kırp */
+//     object-position: center; /* Görseli merkezle */
+//   }
+  .imageslide{
+    width: 100%;           /* Genişlik: %100 */
+    height: 500px;         /* Sabit yükseklik */
+    object-fit: cover;     /* Görseli kırpmadan kapsayıcıya sığdır */
+    object-position: center; /* Görselin merkezini hizala */
+    border-radius: 5px; /* Köşeleri yumuşatmak için (isteğe bağlı) */
+
+  }
