@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MMU\\Backend\\HII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|d:\\mmu\\backend\\hii\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|d:\\mmu\\backend\\hii\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|solutionrelative:api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|d:\\mmu\\backend\\hii\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|d:\\mmu\\backend\\hii\\api\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|solutionrelative:api\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|d:\\mmu\\backend\\hii\\api\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9020E31-07A9-4BA6-BA90-42D0A0258E56}|API\\API.csproj|solutionrelative:api\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "D:\\MMU\\Backend\\HII\\API\\Dtos\\TypeDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\TypeDto.cs",
+              "ToolTip": "D:\\MMU\\Backend\\HII\\API\\Dtos\\TypeDto.cs",
+              "RelativeToolTip": "API\\Dtos\\TypeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T16:24:45.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\MMU\\Backend\\HII\\API\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\MMU\\Backend\\HII\\API\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "API\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:59:07.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\MMU\\Backend\\HII\\API\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\RegisterDto.cs",
+              "ToolTip": "D:\\MMU\\Backend\\HII\\API\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "API\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:37:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\MMU\\Backend\\HII\\API\\Dtos\\RoleDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\RoleDto.cs",
+              "ToolTip": "D:\\MMU\\Backend\\HII\\API\\Dtos\\RoleDto.cs",
+              "RelativeToolTip": "API\\Dtos\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:37:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\MMU\\Backend\\HII\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\MMU\\Backend\\HII\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAAANUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:35:25.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
