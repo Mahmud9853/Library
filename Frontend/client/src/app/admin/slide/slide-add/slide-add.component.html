@@ -1,0 +1,31 @@
+<div class="container mt-1">
+    <div class="card shadow">
+      <div class="card-header bg-primary text-white">
+        <h2 class="text-center mb-0">Yeni Foto Yarat</h2>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="addSlide()" #slideForm="ngForm">
+  
+          <div class="mb-1">
+            <label for="photo" class="form-label">Foto</label>
+            <input
+              id="photo"
+              type="file"
+              class="form-control"
+              (change)="onFileChange($event, 'photo')"
+              placeholder="Choose a photo file"
+            />
+            <div *ngIf="!slide.photo" class="invalid-feedback">
+              Bir şəkil seçin.
+            </div>
+          </div>
+          <div class="d-grid">
+            <button type="submit" class="btn btn-primary btn-block" [disabled]="slideForm.invalid">
+               Foto daxil et
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  

@@ -1,0 +1,30 @@
+<div class="container mt-5">
+    <h2 class="mb-4" style="text-align: center;">Yenilə Kursu</h2>
+    <form (ngSubmit)="updateCourse()">
+      <div class="mb-3">
+        <label for="title" class="form-label">Qısa Adı:</label>
+        <input
+          id="title"
+          type="text"
+          class="form-control"
+          [(ngModel)]="course.title"
+          name="title"
+          required
+        />
+      </div>
+
+      <div class="mb-3">
+        <label for="description" class="form-label">Uzadılmış Adı:</label>
+        <input
+          id="description"
+          type="text"
+          class="form-control"
+          [(ngModel)]="course.description"
+          name="description"
+          required
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Kursu Yenilə</button>
+    </form>
+  </div>
+  

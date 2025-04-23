@@ -1,0 +1,77 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.bg {
+    height: 100vh;
+}
+
+.background-image {
+    background: url('/assets/images/WhatsApp Image 2024-12-06 at 11.08.58_14dc8878.jpg') no-repeat center center/cover;
+    height: 100vh; /* Full height of the viewport */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem; /* Content padding */
+    color: white;
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for better contrast */
+    z-index: 1;
+}
+
+.content {
+    z-index: 2; /* Keep content above the overlay */
+    max-width: 800px;
+    width: 100%;
+}
+
+.form-floating {
+    position: relative;
+}
+
+.form-floating input {
+    padding: 0.5rem 0.75rem; /* Adjust padding */
+    font-size: 1rem; /* Set font size */
+    height: 38px; /* Adjust height */
+}
+
+.form-floating input::placeholder {
+    color: #6c757d; /* Placeholder color */
+    font-size: 1rem; /* Set font size for placeholder */
+}
+
+input:invalid {
+    border-color: #dc3545;
+}
+
+input:invalid:focus {
+    box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.25);
+}
+
+.d-grid button {
+    font-size: 1rem; /* Adjust button size */
+    padding: 0.75rem; /* Adjust padding */
+    border-radius: 0.25rem; /* Slightly rounded corners for the button */
+}
+
+.resetpassword{
+    color: bisque;
+    text-decoration: none;
+}
+.resetpassword:hover{
+ 
+    text-decoration:underline;
+}

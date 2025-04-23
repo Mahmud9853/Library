@@ -1,0 +1,31 @@
+<div *ngIf="home" class="container-fluid">
+  <div class="row">
+    <!-- Title ve Description -->
+    <div class="col-12 text-center">
+      <h1>{{ home.title }}</h1>
+    </div>
+    <div class="col-md-6">
+      <p *ngIf="home.description"><strong>Məlumat:</strong> {{ home.description }}</p>
+    </div>
+
+    <!-- Carousel -->
+    <div class="col-md-6">
+      <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <!-- Fotoğraflar burada döngü ile gösterilecek -->
+          <div *ngFor="let photo of homePhotos; let i = index" class="carousel-item" [ngClass]="{'active': i === 0}">
+            <img class="d-block w-100 imageslide" style="height: 400px;" [src]="photo.photo" alt="Home Image {{ i + 1 }}">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

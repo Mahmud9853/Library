@@ -1,0 +1,162 @@
+<div class="container" >
+  <div class="row ">
+    <form [formGroup]="searchForm" (ngSubmit)="onSearch()" class="d-flex">
+      <div class="col-md-12">
+        <input type="text" formControlName="search" placeholder="Axtarış..."
+          class="form-control mb-3" />
+        <div class="row">
+
+          <div class="col-md-4 my-1">
+            <select class="form-select" formControlName="typeId"
+              (change)="applyFilters()">
+              <option value>Tipin Seç</option>
+              <option *ngFor="let type of types" [value]="type.id">{{
+                type.typeName }}</option>
+            </select>
+
+            <span style="float: left;" class="my-3"><strong>Toplam: {{totalRecords}}</strong></span>
+          </div>
+
+          <div class="col-md-4 my-1">
+            <select class="form-select" formControlName="authorId"
+              (change)="applyFilters()">
+              <option value>Müəllifin Seç</option>
+              <option *ngFor="let author of authors" [value]="author.id">{{
+                author.fullName }}</option>
+            </select>
+          </div>
+
+          <div class="col-md-4 my-1">
+            <select class="form-select" formControlName="categoryId"
+              (change)="applyFilters()">
+              <option value>Kateqoriyasın Seç</option>
+              <option *ngFor="let category of categories"
+                [value]="category.id">{{ category.name }}</option>
+            </select>
+
+            <a [routerLink]="['/admin/book/book-add']"
+              class="btn btn-primary my-2 " style="float: right;"  *ngIf="role === 'Admin'">Yaratmaq</a>
+          </div>
+
+        </div>
+      </div>
+
+    </form>
+
+    <table class="table mt-3">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Titul</th>
+          <th>Tipi</th>
+          <th>Kateqoriyası</th>
+          <th>Müəllifi</th>
+          <th>Kurslar</th>
+          <th>Əməliyyatlar</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let book of books; let i =index">
+          <td>{{ i + 1 }}</td>
+          <td>{{ book.title.substring(0,85)}}</td>
+          <td>{{ book.bookType }}</td>
+          <td>{{ book.bookCategory }}</td>
+          <td>{{ book.bookAuthor }}</td>
+          <td>{{ book.bookCourse}}</td>
+          <td>
+            <a class="mx-1"
+              [routerLink]="['/admin/book/book-detail', book.id]"><svg
+                xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                fill="currentColor" class="bi bi-eye " style="color:black;"
+                viewBox="0 0 16 16">
+                <path
+                  d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8M1.173 8a13 13 0 0 1 1.66-2.043C4.12 4.668 5.88 3.5 8 3.5s3.879 1.168 5.168 2.457A13 13 0 0 1 14.828 8q-.086.13-.195.288c-.335.48-.83 1.12-1.465 1.755C11.879 11.332 10.119 12.5 8 12.5s-3.879-1.168-5.168-2.457A13 13 0 0 1 1.172 8z" />
+                <path
+                  d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0" />
+              </svg></a>
+            <a (click)="openDeleteModal(book)" class=" mx-1" *ngIf="role === 'Admin'"> <svg
+                xmlns="http://www.w3.org/2000/svg" style="color:red;" width="20"
+                height="20" fill="currentColor" class="bi bi-trash"
+                viewBox="0 0 16 16">
+                <path
+                  d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0z" />
+                <path
+                  d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4zM2.5 3h11V2h-11z" />
+              </svg></a>
+            <a [routerLink]="['/admin/book/book-edit', book.id]" *ngIf="role === 'Admin'"
+              class="mx-1"><svg xmlns="http://www.w3.org/2000/svg" width="20"
+                height="20" fill="currentColor" style="color:green;"
+                class="bi bi-pencil-square" viewBox="0 0 16 16">
+                <path
+                  d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z" />
+                <path fill-rule="evenodd"
+                  d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5z" />
+              </svg></a>
+              <a class="mx-1" (click)="downloadBook(book.id,book.title)">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                     fill="currentColor" class="bi bi-file-earmark-arrow-down"
+                     viewBox="0 0 16 16">
+                  <path d="M8.5 6.5a.5.5 0 0 0-1 0v3.793L6.354 9.146a.5.5 0 1 0-.708.708l2 2a.5.5 0 0 0 .708 0l2-2a.5.5 0 0 0-.708-.708L8.5 10.293z"/>
+                  <path d="M14 14V4.5L9.5 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2M9.5 3A1.5 1.5 0 0 0 11 4.5h2V14a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h5.5z"/>
+                </svg>
+              </a>
+
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <nav aria-label="Page navigation example"
+      *ngIf="totalRecords > bookParams.pageSize">
+      <ul class="pagination justify-content-center">
+        <!-- Previous Button -->
+        <li class="page-item" [class.disabled]="bookParams.pageNumber === 1">
+          <a class="page-link" (click)="onPageChange(bookParams.pageNumber - 1)"
+            href="javascript:void(0)">Geri</a>
+        </li>
+
+        <!-- Page Numbers -->
+        <li class="page-item"
+          *ngFor="let page of [].constructor(Math.ceil(totalRecords / bookParams.pageSize)); let i = index"
+          [class.active]="bookParams.pageNumber === i + 1">
+          <a class="page-link" (click)="onPageChange(i + 1)"
+            href="javascript:void(0)">{{ i + 1 }}</a>
+        </li>
+
+        <!-- Next Button -->
+        <li class="page-item"
+          [class.disabled]="bookParams.pageNumber === Math.ceil(totalRecords / bookParams.pageSize)">
+          <a class="page-link" (click)="onPageChange(bookParams.pageNumber + 1)"
+            href="javascript:void(0)">İrəli</a>
+        </li>
+      </ul>
+    </nav>
+
+  </div>
+
+  <!-- Delete Confirmation Modal -->
+  <div
+    class="modal fade"
+    id="deleteModal"
+    tabindex="-1"
+    aria-labelledby="deleteModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="deleteModalLabel">Silmək</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal"
+            aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <strong>{{ bookToDelete?.title }}</strong> silmək istəyirsinizmi?
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary"
+            data-bs-dismiss="modal">Xeyr</button>
+          <button type="button" class="btn btn-danger"
+            (click)="confirmDelete()">Sil</button>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,18 @@
+<div class="container mt-5">
+    <h2 class="mb-4" style="text-align: center;">Yenilə Müəllifi</h2>
+    <form (ngSubmit)="updateAuthor()">
+      <div class="mb-3">
+        <label for="fullName" class="form-label">Tam Adı:</label>
+        <input
+          id="fullName"
+          type="text"
+          class="form-control"
+          [(ngModel)]="author.fullName"
+          name="fullName"
+          required
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Müəllifi Yenilə</button>
+    </form>
+  </div>
+  

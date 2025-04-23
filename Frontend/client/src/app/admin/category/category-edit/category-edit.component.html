@@ -1,0 +1,18 @@
+<div class="container mt-5">
+    <h2 class="mb-4" style="text-align: center;">Yenilə Kateqoriyasın</h2>
+    <form (ngSubmit)="updateCategory()">
+      <div class="mb-3">
+        <label for="name" class="form-label">kateqoriyası:</label>
+        <input
+          id="name"
+          type="text"
+          class="form-control"
+          [(ngModel)]="category.name"
+          name="name"
+          required
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Kateqoriyasın Yenilə</button>
+    </form>
+  </div>
+  

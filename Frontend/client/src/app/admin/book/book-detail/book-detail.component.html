@@ -1,0 +1,24 @@
+  <div *ngIf="book; else noBook" class="container-fluid">
+    <div class="row">
+        <div class="">
+            <h1 class="text-center">{{ book.title }}</h1>
+        </div>
+        <div class="col-md-8">
+            <div class="d-flex" >
+                <p><strong>Məlumat:</strong> {{ book.description }}</p>
+            </div>
+            
+            <p><strong>Tipi:</strong> {{ book.bookType }}</p>
+            <p><strong>Müəllifi:</strong> {{book.bookAuthor}}</p>
+            <p><strong>Kateqoriyası:</strong> {{book.bookCategory}}</p>
+            <p><strong>Kursu:</strong> {{book.bookCourse}}</p>
+            <p><strong>Tarixi:</strong> {{book.createBook.split('T')[0]}}</p>
+        </div>
+        <div class="col-md-4">
+            <img [src]="book.photo ? book.photo : 'assets/images/no-camera.png'" alt="Book Image" style="width: 340px; height: 340px;" />
+        </div>
+    </div>
+  </div>
+  <ng-template #noBook>
+    <p>Book not found or loading...</p>
+  </ng-template>

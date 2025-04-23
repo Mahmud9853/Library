@@ -1,0 +1,37 @@
+    <div class="dashboard-container">
+    <aside class="sidebar">
+        <span id="oc" onclick="openclose" style="font-size:20px"><strong>{{username}}</strong></span>
+       
+    <ul>
+        <li class="nav-item">
+            <a routerLink="/home"
+            routerLinkActive="active" class="nav-link">Ana Səhifə</a>
+        </li>
+        <li *ngFor="let item of filteredMenuItems" class="nav-item">
+            <a
+              [routerLink]="item.route"
+              routerLinkActive="active"
+              class="nav-link"
+              
+            >
+              {{ item.label }}
+            </a>
+          </li>
+    </ul>
+    <hr class="text-white " style="margin-top: 300px;">
+    <ul class="nav nav-pills flex-column mt-auto">
+        <li class="nav-item">
+            <a [routerLink]="['support']"  class="nav-link">Texniki Dəstək</a>
+        </li>
+        <li class="nav-item">
+            <a (click)="logout()" class="nav-link"  style="cursor: pointer;">Çıxış</a>
+        </li>
+    </ul>
+    </aside>    
+
+    <main class="main-content" style="height: 100vh;">
+        <router-outlet></router-outlet>
+    </main>
+
+
+</div>

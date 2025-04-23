@@ -1,0 +1,19 @@
+<div class="container mt-5">
+  <h2 class="mb-4 text-center">Edit Slide</h2>
+  <form (ngSubmit)="updateSlide()">
+    <div class="my-2">
+      <img *ngIf="slide.photo" [src]="slide.photo" alt="Slide Photo" class="img-thumbnail my-2" style="max-width: 200px;" />
+      <div class="w-100">
+        <label for="photo" class="form-label">Photo</label>
+        <input
+          id="photo"
+          type="file"
+          class="form-control"
+          (change)="onFileChange($event, 'photo')"
+          placeholder="Choose a photo file"
+        />
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Foto yenilə</button>
+  </form>
+</div>

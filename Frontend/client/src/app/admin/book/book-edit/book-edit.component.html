@@ -1,0 +1,130 @@
+<div class="container mt-5">
+    <h2 class="mb-4" style="text-align: center;">Yenilə Kitabı</h2>
+    <form (ngSubmit)="updateBook()">
+      <div class="mb-3">
+        <label for="title" class="form-label">Başlıq:</label>
+        <input
+          id="title"
+          type="text"
+          class="form-control"
+          [(ngModel)]="book.title"
+          name="title"
+          required
+        />
+      </div>
+      <div class="mb-3">
+        <label for="description" class="form-label">Məlumat:</label>
+        <textarea
+          id="description"
+          class="form-control"
+          [(ngModel)]="book.description"
+          name="description"
+          rows="3"
+        ></textarea>
+      </div>
+      <div class="mb-3">
+        <label for="createBook" class="form-label">Tarixi:</label>
+        <input
+          id="createBook"
+          type="date"
+          class="form-control"
+          [(ngModel)]="book.createBook"
+          name="createBook"
+          required
+        />
+      </div>
+      <div class="mb-3">
+        <label for="typeId" class="form-label">Tipi:</label>
+        <select
+          id="typeId"
+          class="form-select"
+          [(ngModel)]="book.typeId"
+          name="typeId"
+          required
+        >
+          <option *ngFor="let type of types" [value]="type.id">
+            {{ type.typeName }}
+          </option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label for="categoryId" class="form-label">Kateqoriyası:</label>
+        <select
+          id="categoryId"
+          class="form-select"
+          [(ngModel)]="book.categoryId"
+          name="categoryId"
+          required
+        >
+          <option *ngFor="let category of categories" [value]="category.id">
+            {{ category.name }}
+          </option>
+        </select>
+      </div>
+      <div class="mb-3">
+        <label for="authorId" class="form-label">Müəllifi:</label>
+        <select
+          id="authorId"
+          class="form-select"
+          [(ngModel)]="book.authorId"
+          name="authorId"
+          required
+        >
+          <option *ngFor="let author of authors" [value]="author.id">
+            {{ author.fullName }}
+          </option>
+        </select>
+      </div>
+
+      <div class="mb-3">
+        <label for="courseId" class="form-label">Kurslar:</label>
+        <select
+          id="courseId"
+          class="form-select"
+          [(ngModel)]="book.courseId"
+          name="courseId"
+          (ngModelChange)="onCourseChange($event)"
+        >
+          <!-- Eğer courseId 0 ise, 'Kurs Seçiniz' seçeneği seçili olmalı -->
+          <option [ngValue]="0" [selected]="book.courseId === 0">Kurs Seçiniz</option>
+          
+          <!-- Seçilen kursun başlığı burada gösterilecek -->
+          <option *ngFor="let course of courses" [ngValue]="course.id">
+            {{ course.title }}
+          </option>
+        </select>
+      </div>
+
+      <div class="my-2">
+        <img *ngIf="book.photo" [src]="book.photo" alt="Book Photo" class="img-thumbnail my-2" style="max-width: 200px;" />
+        <div class="w-100">
+          <label for="photo" class="form-label">Photo</label>
+          <input
+            id="photo"
+            type="file"
+            class="form-control"
+            (change)="onFileChange($event, 'photo')"
+            placeholder="Choose a photo file"
+          />
+        </div>
+        
+      </div>
+      <div class="mb-3">
+        <label>Fayl:</label>
+        <a class="mx-2" *ngIf="book.document" [href]="book.document" target="_blank">View Document</a>
+            
+        <div class="my-2">
+          <label for="document" class="form-label">Document</label>
+          <input
+            id="document"
+            type="file"
+            class="form-control"
+            (change)="onFileChange($event, 'document')"
+            placeholder="Choose a document file"
+          />
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Kitabı Yenilə</button>
+    </form>
+  </div>
+  

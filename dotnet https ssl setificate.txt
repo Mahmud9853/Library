@@ -1,0 +1,17 @@
+Bu hata, ASP.NET Core API’ni çalıştırırken SSL sertifikasının geçersiz veya eksik olduğunu gösteriyor. Daha önce bu hata yoksa, birkaç sebep olabilir:
+
+Olası Nedenler ve Çözümler:
+1. Geliştirici Sertifikasının Bozulması veya Silinmesi
+ASP.NET Core geliştirme sertifikası silinmiş veya bozulmuş olabilir. Yeniden yüklemek için:
+
+Mevcut sertifikaları kaldır:
+sh
+Copy
+Edit
+dotnet dev-certs https --clean
+Yeni sertifika oluştur:
+sh
+Copy
+Edit
+dotnet dev-certs https --trust
+Tarayıcını kapatıp aç ve projeyi tekrar çalıştır.

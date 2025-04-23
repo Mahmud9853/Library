@@ -1,0 +1,34 @@
+<div class="container mt-1">
+    <div class="card shadow">
+      <div class="card-header bg-primary text-white">
+        <h2 class="text-center mb-0">Yeni Kitab Yarat</h2>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="addAuthor()" #typeForm="ngForm">
+          <div class="mb-3">
+            <label for="name" class="form-label">Müəllifi</label>
+            <input
+              id="name"
+              type="text"
+              class="form-control"
+              [(ngModel)]="author.fullName"
+              name="name"
+              placeholder="Müəllifin ad və soyadı"
+              required
+              #title="ngModel"
+            />
+            <div *ngIf="author.fullName.touched && author.fullName.invalid" class="text-danger">
+              Müəllifi yazmağınız tələb olunur.
+            </div>
+          </div>
+  
+          <div class="d-grid">
+            <button type="submit" class="btn btn-primary btn-block" [disabled]="typeForm.invalid">
+              Müəllifi daxil et
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  

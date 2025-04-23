@@ -1,0 +1,15 @@
+.card1:hover{
+    background: linear-gradient(to right, #2d3b2f, #5a6e4e);
+    height:450px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    z-index: 1000;
+    font-size: 25px;
+    border: none;
+    border-radius: 10px;
+    color: #ffff !important;
+    transition: 1s;
+   
+
+}

@@ -1,0 +1,175 @@
+<div class="container mt-1">
+  <div class="card shadow">
+    <div class="card-header bg-primary text-white">
+      <h2 class="text-center mb-0">Yeni Kitab Yarat</h2>
+    </div>
+    <div class="card-body">
+      <form (ngSubmit)="addBook()" #bookForm="ngForm">
+        <div class="mb-3">
+          <label for="title" class="form-label">Title</label>
+          <input
+            id="title"
+            type="text"
+            class="form-control"
+            [(ngModel)]="book.title"
+            name="title"
+            placeholder="Enter book title"
+            required
+            #title="ngModel"
+          />
+          <div *ngIf="title.touched && title.invalid" class="text-danger">
+            Titulu yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="description" class="form-label">Description</label>
+          <textarea
+              id="description"
+              class="form-control"
+              [(ngModel)]="book.description"
+              name="description"
+              rows="3"
+              placeholder="Enter book description"
+              required
+              #description="ngModel"
+          ></textarea>
+          <div *ngIf="description.touched && description.invalid" class="text-danger">
+            Məlumatı yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="createBook" class="form-label">Müddəti</label>
+          <input
+            type="date"
+            id="createBook"
+            class="form-control"
+            [(ngModel)]="book.createBook"
+            name="createBook"
+            placeholder="Enter book date"
+            #createBook="ngModel"
+            required
+          />
+          <div *ngIf="createBook.touched && createBook.invalid" class="text-danger">
+          Kitabın müddətin yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="type" class="form-label">Tipi</label>
+          <select
+            id="type"
+            class="form-select"
+            [(ngModel)]="book.typeId"
+            name="type"
+            required
+            #type="ngModel"
+          >
+          <option value="0">Tipin seçin</option>
+            <option *ngFor="let type of types" [value]="type.id">
+              {{ type.typeName }}
+            </option>
+          </select>
+          <div *ngIf="type.touched && type.invalid" class="text-danger">
+            Tipin yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="category" class="form-label">Kateqoriyası</label>
+          <select
+            id="category"
+            class="form-select"
+            [(ngModel)]="book.categoryId"
+            name="category"
+            required
+            #category="ngModel"
+          >
+          <option value="0">Kateqoriyasın seçin</option>
+            <option *ngFor="let category of categories" [value]="category.id">
+              {{ category.name }}
+            </option>
+          </select>
+          <div *ngIf="category.touched && category.invalid" class="text-danger">
+            Kateqoriyasın yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="author" class="form-label">Müəllifi</label>
+          <select
+            id="author"
+            class="form-select"
+            [(ngModel)]="book.authorId"
+            name="author"
+            required
+            #author="ngModel"
+          >
+            <option value="0">Müəllifin seçin</option>
+            <option *ngFor="let author of authors" [value]="author.id">
+              {{ author.fullName }}
+            </option>
+          </select>
+          <div *ngIf="author.touched && author.invalid" class="text-danger">
+           Müəllifin yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="course" class="form-label">Kurslar</label>
+          <select
+            id="course"
+            class="form-select"
+            [(ngModel)]="book.courseId"
+            name="course"
+            required
+            #course="ngModel"
+          >
+            <option value="0">Kursu seçin</option>
+            <option *ngFor="let course of courses" [value]="course.id">
+              {{ course.title}} 
+            </option>
+          </select>
+          <div *ngIf="author.touched && author.invalid" class="text-danger">
+           Kursu yazmağınız tələb olunur.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="photo" class="form-label">Foto</label>
+          <input
+            id="photo"
+            type="file"
+            class="form-control"
+            (change)="onFileChange($event, 'photo')"
+            placeholder="Choose a photo file"
+          />
+          <div *ngIf="!book.photoFile" class="invalid-feedback">
+            Bir şəkil seçin.
+          </div>
+        </div>
+
+        <div class="mb-1">
+          <label for="document" class="form-label">Fayl</label>
+          <input
+            id="document"
+            type="file"
+            class="form-control"
+            (change)="onFileChange($event, 'document')"
+            placeholder="Choose a document file"
+          />
+          <div *ngIf="!book.documentFile" class="invalid-feedback">
+            Bir fayl seçin.
+          </div>
+        </div>
+
+        <div class="d-grid">
+          <button type="submit" class="btn btn-primary btn-block" [disabled]="bookForm.invalid">
+            Kitabı daxil et
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,16 @@
+1.Komut istemcisini (CMD veya PowerShell) yönetici olarak çalıştırın.
+
+2.Aşağıdaki komutu kullanarak sertifikayı keystore'a ekleyin:
+
+keytool -importcert -trustcacerts -file "C:\Users\HP\AppData\Local\mkcert\rootCA.pem" -keystore "C:\Program Files\Java\jdk-22\lib\security\cacerts" -alias mkcert
+
+3.Keystore Şifresi Sorulacaktır:
+
+Varsayılan şifre: changeit
+Eğer değiştirilmediyse şifre bu olacaktır.
+
+4.Ekleme başarılıysa aşağıdaki mesajı göreceksiniz:
+
+Certificate was added to keystore
+Angular visual studio code terminalda yazilacak:
+ng serve --ssl --ssl-cert "C:\Users\HP\AppData\Local\mkcert\rootCA.pem" --ssl-key "C:\Users\HP\AppData\Local\mkcert\rootCA-key.pem"

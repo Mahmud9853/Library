@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "src/assets/bootstrap-5.3.3-dist/css/bootstrap.min.css";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body, html, app-nav-bar, router-outlet, section {
+    margin: 0;
+    padding: 0;
+  }
+  

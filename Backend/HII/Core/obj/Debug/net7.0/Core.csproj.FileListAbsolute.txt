@@ -1,0 +1,12 @@
+D:\MMU\Backend\HII\Core\bin\Debug\net7.0\Core.deps.json
+D:\MMU\Backend\HII\Core\bin\Debug\net7.0\Core.dll
+D:\MMU\Backend\HII\Core\bin\Debug\net7.0\Core.pdb
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.dll
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\refint\Core.dll
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.pdb
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\ref\Core.dll
+D:\MMU\Backend\HII\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache

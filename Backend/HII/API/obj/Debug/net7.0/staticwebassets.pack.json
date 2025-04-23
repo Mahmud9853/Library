@@ -1,0 +1,1497 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap-5.3.3-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\E-kitabxana.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\E-kitabxana.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\H.Aliyev.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\H.Aliyev.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HII-monoton-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\HII-monoton-logo.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HII-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\images\\HII-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HII.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\HII.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HIIBuild(1).jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\HIIBuild(1).jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HIIbinasi.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\HIIbinasi.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HIIbuild.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\HIIbuild.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\HIIlogo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\HIIlogo.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\Hİİ-logo-2022-01_114831-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Hİİ-logo-2022-01_114831-1.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\Hİİ-logo-2022-01_114831.pdf",
+      "PackagePath": "staticwebassets\\assets\\images\\Hİİ-logo-2022-01_114831.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\MMU Kontur2_040550.png",
+      "PackagePath": "staticwebassets\\assets\\images\\MMU Kontur2_040550.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\MMU-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\images\\MMU-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\MMU.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\MMU.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-06 at 11.08.58_14dc8878.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-06 at 11.08.58_14dc8878.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.36_3b73afd2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.36_3b73afd2.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.36_b9ad1cf2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.36_b9ad1cf2.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.37_4fb7762d.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.37_4fb7762d.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.37_6e51ff4f.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.37_6e51ff4f.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\images\\WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\da21936d5e64034212bc5df85561734c.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\da21936d5e64034212bc5df85561734c.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\download (1).jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download (1).jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\download.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\e-kitabxana(1).jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\e-kitabxana(1).jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\e-kitabxana(2).jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\e-kitabxana(2).jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\images-removebg-preview-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\images\\images-removebg-preview-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\images-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\images\\images-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\images.png",
+      "PackagePath": "staticwebassets\\assets\\images\\images.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\images.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\images.svg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\kitabxana.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kitabxana.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\library(1).jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\library(1).jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\library.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\library.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\logo-1710463394.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-1710463394.svg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\no-camera.png",
+      "PackagePath": "staticwebassets\\assets\\images\\no-camera.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\images\\pvXgA.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pvXgA.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\assets\\javascript\\javascript.js",
+      "PackagePath": "staticwebassets\\assets\\javascript\\javascript.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\bootstrap-icons.70a9dee9e5ab72aa.woff",
+      "PackagePath": "staticwebassets\\bootstrap-icons.70a9dee9e5ab72aa.woff"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\bootstrap-icons.bfa90bda92a84a6a.woff2",
+      "PackagePath": "staticwebassets\\bootstrap-icons.bfa90bda92a84a6a.woff2"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\08d5aa22-2415-41b8-a9d5-6956c889335dElmi eser.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\08d5aa22-2415-41b8-a9d5-6956c889335dElmi eser.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\0b11955f-bd77-46ca-a822-cc478e742257sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\0b11955f-bd77-46ca-a822-cc478e742257sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\0f6765b1-9035-41fb-9012-ad6ae35d77fcElmi eser.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\0f6765b1-9035-41fb-9012-ad6ae35d77fcElmi eser.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\16de1edd-f3da-410d-a2c1-a17a7305b544.pdf",
+      "PackagePath": "staticwebassets\\documents\\16de1edd-f3da-410d-a2c1-a17a7305b544.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\21139005-9441-4eb3-86be-8e0da5845d0bElmi eser (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\21139005-9441-4eb3-86be-8e0da5845d0bElmi eser (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\221f6e7a-98cb-4705-9526-dc4c4829122esql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\221f6e7a-98cb-4705-9526-dc4c4829122esql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\25b8ddb5-3692-4767-a103-88ad6a049fe1sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\25b8ddb5-3692-4767-a103-88ad6a049fe1sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\26ba634d-95a8-4c55-8e17-0595d4d2f0576331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\26ba634d-95a8-4c55-8e17-0595d4d2f0576331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\29d04569-7b0b-4ef4-8673-c85f6eb5ac046331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\29d04569-7b0b-4ef4-8673-c85f6eb5ac046331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\2a065f2c-d871-4914-ae30-c1bf32ab29c0.pdf",
+      "PackagePath": "staticwebassets\\documents\\2a065f2c-d871-4914-ae30-c1bf32ab29c0.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\2ea64a59-af4d-427b-b58b-f2898b371bd5coding_test_i_application_description (1).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\2ea64a59-af4d-427b-b58b-f2898b371bd5coding_test_i_application_description (1).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\352d2022-bf86-4ae7-b913-8b5dfd2e05a2SQL-DERS-NOTLARI.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\352d2022-bf86-4ae7-b913-8b5dfd2e05a2SQL-DERS-NOTLARI.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\36f848c3-ac25-436b-85a2-47b4aa197d56.pdf",
+      "PackagePath": "staticwebassets\\documents\\36f848c3-ac25-436b-85a2-47b4aa197d56.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\39642885-8b11-48e4-b637-3d22bc9cdf6a6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\39642885-8b11-48e4-b637-3d22bc9cdf6a6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\3bda1be4-b000-4b7b-aea7-fa8e09e20d46sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\3bda1be4-b000-4b7b-aea7-fa8e09e20d46sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\3e10044a-3278-4a9d-a191-d062bbdd69226331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\3e10044a-3278-4a9d-a191-d062bbdd69226331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\414aa40d-641b-457c-95b6-ea0aa2c1e2fdElmi eser (1).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\414aa40d-641b-457c-95b6-ea0aa2c1e2fdElmi eser (1).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\41b3bee4-7dc0-4458-a176-8bcf28c69d45Elmi eser.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\41b3bee4-7dc0-4458-a176-8bcf28c69d45Elmi eser.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\458132cd-f962-482a-be29-95fc871611a1Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\458132cd-f962-482a-be29-95fc871611a1Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\48fb4b29-1aea-435d-8f77-a4857aa178f0Herbi Elmi is 4 (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\48fb4b29-1aea-435d-8f77-a4857aa178f0Herbi Elmi is 4 (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\4b700104-0e1c-4fb2-a3eb-fb140521431cElmi eser.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\4b700104-0e1c-4fb2-a3eb-fb140521431cElmi eser.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\4fa15d10-cd65-4b41-b970-3b9fa6e7a733Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\4fa15d10-cd65-4b41-b970-3b9fa6e7a733Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\50aff5fa-aca2-41f9-9ab7-786a56d4285e6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\50aff5fa-aca2-41f9-9ab7-786a56d4285e6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\51cd831a-b685-4440-a97e-9f057ec2ba286331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\51cd831a-b685-4440-a97e-9f057ec2ba286331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\53c51b83-2f90-49eb-89e6-c1870f650bcbElmi eser (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\53c51b83-2f90-49eb-89e6-c1870f650bcbElmi eser (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\54d45d2a-e6f6-4873-be64-4731062f83f4sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\54d45d2a-e6f6-4873-be64-4731062f83f4sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\596a7685-71a7-4ac8-bd01-df453fc34e956331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\596a7685-71a7-4ac8-bd01-df453fc34e956331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\5a63b1d5-50cb-4c28-bac4-23370d824f28SQL Commands.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\5a63b1d5-50cb-4c28-bac4-23370d824f28SQL Commands.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\5b55074a-7a3a-4225-a37f-8784e5d4fe8cHİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\5b55074a-7a3a-4225-a37f-8784e5d4fe8cHİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\5fc3eafe-1941-4cc7-9a75-046f8246d25e.pdf",
+      "PackagePath": "staticwebassets\\documents\\5fc3eafe-1941-4cc7-9a75-046f8246d25e.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\61412b81-60f4-4120-a5cc-c6d6fb24520c6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\61412b81-60f4-4120-a5cc-c6d6fb24520c6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\64fa8f7d-37f7-4a16-bcb1-03a9fe3d5589Herbi Elmi is 4 (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\64fa8f7d-37f7-4a16-bcb1-03a9fe3d5589Herbi Elmi is 4 (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\6a16d4ab-71d1-4f4d-a5f3-30ed5a3aa129sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\6a16d4ab-71d1-4f4d-a5f3-30ed5a3aa129sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\6b547f48-f94b-43d5-a85d-96c686e2bd046331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\6b547f48-f94b-43d5-a85d-96c686e2bd046331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\6b5fa5cc-d376-4f43-98d6-558f510896f3HIIlogo.jpg.jpg",
+      "PackagePath": "staticwebassets\\documents\\6b5fa5cc-d376-4f43-98d6-558f510896f3HIIlogo.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\6d74baa9-93ae-41ce-a702-99fca7d92e85sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\6d74baa9-93ae-41ce-a702-99fca7d92e85sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\6fb31620-929e-497d-a5be-ed0df87c1c126331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\6fb31620-929e-497d-a5be-ed0df87c1c126331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\74771056-d08f-4e67-95cc-31da88542774SQL Commands.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\74771056-d08f-4e67-95cc-31da88542774SQL Commands.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\777a43f3-2122-494c-8b16-b8869babfca1Herbi Elmi is 4 (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\777a43f3-2122-494c-8b16-b8869babfca1Herbi Elmi is 4 (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\77ec9b00-82a9-4fea-a221-0c003a81cbf0Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\77ec9b00-82a9-4fea-a221-0c003a81cbf0Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\78ff6cb7-79d2-4d23-bb70-242e57097f296331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\78ff6cb7-79d2-4d23-bb70-242e57097f296331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\7bdfd3d2-db26-4109-861b-e7f5ea9b7f45188399182-49-56.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\7bdfd3d2-db26-4109-861b-e7f5ea9b7f45188399182-49-56.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\835bd740-7e2e-4000-bea2-79b7064254256331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\835bd740-7e2e-4000-bea2-79b7064254256331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\897f1807-8d95-4a74-8796-2737e4d5be53.pdf",
+      "PackagePath": "staticwebassets\\documents\\897f1807-8d95-4a74-8796-2737e4d5be53.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\8cb329ad-9040-4a5f-88bb-f08574293277.pdf",
+      "PackagePath": "staticwebassets\\documents\\8cb329ad-9040-4a5f-88bb-f08574293277.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\941ad600-bd84-4b78-8445-6bd36ef1debe6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\941ad600-bd84-4b78-8445-6bd36ef1debe6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\953eb2b7-fb99-4216-88b2-532e4291f616Elmi eser.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\953eb2b7-fb99-4216-88b2-532e4291f616Elmi eser.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\96df8bad-53d5-4ec1-88a5-64b9f57eaf80.pdf",
+      "PackagePath": "staticwebassets\\documents\\96df8bad-53d5-4ec1-88a5-64b9f57eaf80.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\97515075-2581-4e74-b612-7ea1868a68b1188399182-49-56.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\97515075-2581-4e74-b612-7ea1868a68b1188399182-49-56.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\978edcec-646c-4efd-b314-0b256e7b8e19Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\978edcec-646c-4efd-b314-0b256e7b8e19Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\9d0bb815-8a90-40c9-b939-6e52488d5ec96331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\9d0bb815-8a90-40c9-b939-6e52488d5ec96331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\9d1fdb0f-2e97-4d2c-9be4-d0f8606b26cb6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\9d1fdb0f-2e97-4d2c-9be4-d0f8606b26cb6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\9f1cab26-deb5-4f05-b384-1113ccef999dsql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\9f1cab26-deb5-4f05-b384-1113ccef999dsql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\a57ea271-78ac-4b7b-95ac-b4caae3e3b706331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\a57ea271-78ac-4b7b-95ac-b4caae3e3b706331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\a9e1348f-0099-42d0-b6a0-6bb8a0872cbdsql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\a9e1348f-0099-42d0-b6a0-6bb8a0872cbdsql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\af118faa-c292-43c6-95a4-7ac3fb1aa982.pdf",
+      "PackagePath": "staticwebassets\\documents\\af118faa-c292-43c6-95a4-7ac3fb1aa982.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\af1beac0-fe30-454b-81f2-0f277022ac35HIIlogo.jpg.jpg",
+      "PackagePath": "staticwebassets\\documents\\af1beac0-fe30-454b-81f2-0f277022ac35HIIlogo.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\b4a23051-1ea2-47de-a3e2-6c594b9d46d4.pdf",
+      "PackagePath": "staticwebassets\\documents\\b4a23051-1ea2-47de-a3e2-6c594b9d46d4.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\b6a20c50-aa30-4d0d-84be-dac52eb62e776331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\b6a20c50-aa30-4d0d-84be-dac52eb62e776331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\baeaa732-b499-423b-8cd4-3c576d1c5d5d.pdf",
+      "PackagePath": "staticwebassets\\documents\\baeaa732-b499-423b-8cd4-3c576d1c5d5d.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\bcbbe741-97fd-4f66-a017-39b2f20ae71esql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\bcbbe741-97fd-4f66-a017-39b2f20ae71esql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c23aa1e2-3296-4a6c-b5d9-74b00f88eefc6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c23aa1e2-3296-4a6c-b5d9-74b00f88eefc6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c2dc14f1-8ef1-4c67-89f4-569404930660188399182-49-56.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c2dc14f1-8ef1-4c67-89f4-569404930660188399182-49-56.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c2f96e43-158a-4b7f-8683-0616cd797ce26331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c2f96e43-158a-4b7f-8683-0616cd797ce26331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c4ce376b-2313-49d1-a3ac-7b26f8cefaf2.pdf",
+      "PackagePath": "staticwebassets\\documents\\c4ce376b-2313-49d1-a3ac-7b26f8cefaf2.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c5dbb4b5-ed74-47bc-8f22-be1700f73d7fElmi eser.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c5dbb4b5-ed74-47bc-8f22-be1700f73d7fElmi eser.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c7e42588-1357-44ea-9151-0955b708ee2aHerbi Elmi is 4 (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c7e42588-1357-44ea-9151-0955b708ee2aHerbi Elmi is 4 (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c9225f65-c71d-4e6f-8ef2-2be405831c13Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c9225f65-c71d-4e6f-8ef2-2be405831c13Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\c97badfe-7df6-457b-971e-ac15402e2d82sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\c97badfe-7df6-457b-971e-ac15402e2d82sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\d1a6c4db-f9db-4062-a612-5547f18bc005.pdf",
+      "PackagePath": "staticwebassets\\documents\\d1a6c4db-f9db-4062-a612-5547f18bc005.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\d8684404-3844-4f23-83ea-25958f934308Herbi Elmi is 3.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\d8684404-3844-4f23-83ea-25958f934308Herbi Elmi is 3.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\d90fe175-a122-4aee-9bc2-08b569f2488e6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\d90fe175-a122-4aee-9bc2-08b569f2488e6331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\d95aafaa-bc9b-42a1-979e-410026d0c1a0188399182-49-56.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\d95aafaa-bc9b-42a1-979e-410026d0c1a0188399182-49-56.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\de2520d2-815a-4190-aecb-e007a3cfe634sql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\de2520d2-815a-4190-aecb-e007a3cfe634sql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\e29f25ad-54e2-4f59-a9d0-c9bae4f1cdfasql.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\e29f25ad-54e2-4f59-a9d0-c9bae4f1cdfasql.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\e41ead11-5dbe-4708-ab4b-79ae93433400Herbi Elmi is 4 (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\e41ead11-5dbe-4708-ab4b-79ae93433400Herbi Elmi is 4 (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\e8e6d200-36bd-44e9-97c7-ed420364f426Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\e8e6d200-36bd-44e9-97c7-ed420364f426Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\e9089762-ad48-414b-8eff-2baac59d3d30.pdf",
+      "PackagePath": "staticwebassets\\documents\\e9089762-ad48-414b-8eff-2baac59d3d30.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\ebf2df51-130c-40e6-8b71-839fbd655dfdHerbi Elmi is 4 (2).pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\ebf2df51-130c-40e6-8b71-839fbd655dfdHerbi Elmi is 4 (2).pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\ec85dd99-c053-4cf4-9789-8d67d10651676331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\ec85dd99-c053-4cf4-9789-8d67d10651676331931b-874a-4a7e-a8fe-b57d1f0f3515coding_test_i_application_description.pdf.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\efd1a8e4-4574-4bc0-b4c9-71db9009eb70.pdf",
+      "PackagePath": "staticwebassets\\documents\\efd1a8e4-4574-4bc0-b4c9-71db9009eb70.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\f0cec18c-57fc-4ee2-8979-ded4a7384374Herbi is.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\f0cec18c-57fc-4ee2-8979-ded4a7384374Herbi is.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\f297868e-9d4e-4942-bef2-b2abb699b6fb.pdf",
+      "PackagePath": "staticwebassets\\documents\\f297868e-9d4e-4942-bef2-b2abb699b6fb.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\f3ec7455-10f7-4abe-a1d7-2f1641dcaf52188399182-49-56.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\f3ec7455-10f7-4abe-a1d7-2f1641dcaf52188399182-49-56.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\fb5c8b78-d931-4818-b120-41baebab7188Hİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\fb5c8b78-d931-4818-b120-41baebab7188Hİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\fe020917-d87e-48cd-8fc2-891ccc49df1cHİİ-logo-2022-01_114831.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\fe020917-d87e-48cd-8fc2-891ccc49df1cHİİ-logo-2022-01_114831.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\documents\\fe49876a-b40b-43b3-aef8-b2a45f253a86SQL Commands.pdf.pdf",
+      "PackagePath": "staticwebassets\\documents\\fe49876a-b40b-43b3-aef8-b2a45f253a86SQL Commands.pdf.pdf"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\01eeb3e4-6eb2-4b70-aabc-9bd216007151Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\01eeb3e4-6eb2-4b70-aabc-9bd216007151Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0333c38b-3650-408b-952b-b2d25222aa7fH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\0333c38b-3650-408b-952b-b2d25222aa7fH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\03ed04b9-aa3f-4e5c-8fc5-1890b3a94752WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\03ed04b9-aa3f-4e5c-8fc5-1890b3a94752WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\046d3e2c-b74f-414f-bb0d-da47e2887ff9Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\046d3e2c-b74f-414f-bb0d-da47e2887ff9Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\04c225b8-e083-4e65-827a-0a79beb42146WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\04c225b8-e083-4e65-827a-0a79beb42146WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\05597d6a-88da-419b-9a40-8aab8bd8c6e2download (1).jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\05597d6a-88da-419b-9a40-8aab8bd8c6e2download (1).jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0603e852-2a6f-4fb3-8bb6-8a5921643173Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\0603e852-2a6f-4fb3-8bb6-8a5921643173Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\062bfa69-82e3-4584-8e06-2aa4838b0482WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\062bfa69-82e3-4584-8e06-2aa4838b0482WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0703e9f5-1cf7-455a-ba0f-6fcade374275.png",
+      "PackagePath": "staticwebassets\\images\\0703e9f5-1cf7-455a-ba0f-6fcade374275.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\07a4dca2-882b-41c6-b7b6-45215743eeeeWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\07a4dca2-882b-41c6-b7b6-45215743eeeeWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\07febd25-f8f1-4d2b-846e-45dee2bcf826E-kitabxana.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\07febd25-f8f1-4d2b-846e-45dee2bcf826E-kitabxana.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\091ddf30-df7b-47bd-b9bc-b638977b6a61WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\091ddf30-df7b-47bd-b9bc-b638977b6a61WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0b90fb7a-c302-42b8-bd78-6f914f6da8dcimages-removebg-preview-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\0b90fb7a-c302-42b8-bd78-6f914f6da8dcimages-removebg-preview-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0e386c00-325b-4d33-8dea-e9d12e4cbb56da21936d5e64034212bc5df85561734c.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\0e386c00-325b-4d33-8dea-e9d12e4cbb56da21936d5e64034212bc5df85561734c.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0f27eb52-6a21-408b-8a42-2c9ec98d40dc.png",
+      "PackagePath": "staticwebassets\\images\\0f27eb52-6a21-408b-8a42-2c9ec98d40dc.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\0fb12025-3287-4e38-a966-1ff78fe4bcb5e-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\0fb12025-3287-4e38-a966-1ff78fe4bcb5e-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\11d0c517-c016-4683-993a-57b4cc1310b1Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\11d0c517-c016-4683-993a-57b4cc1310b1Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\11fab78f-8832-4307-aefb-64a014c04f9e.png",
+      "PackagePath": "staticwebassets\\images\\11fab78f-8832-4307-aefb-64a014c04f9e.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\1366c496-03fe-481e-a0f4-cf84c7e59558WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\1366c496-03fe-481e-a0f4-cf84c7e59558WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\13cfade6-0084-4b70-a070-50cb8c61113bHIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\13cfade6-0084-4b70-a070-50cb8c61113bHIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\1431ae6a-f414-4852-81e7-a3eaa34ee1c2Hİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\1431ae6a-f414-4852-81e7-a3eaa34ee1c2Hİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\160feaea-b275-4110-b98e-b6164799903fH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\160feaea-b275-4110-b98e-b6164799903fH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\17ea730c-fd34-4722-a05b-a88e54447060Hİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\17ea730c-fd34-4722-a05b-a88e54447060Hİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\184199b3-4f38-4c2c-ab79-cf540322dcb7WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\184199b3-4f38-4c2c-ab79-cf540322dcb7WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\1871cb1a-076b-4408-b508-d3616e0d9b9fH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\1871cb1a-076b-4408-b508-d3616e0d9b9fH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\1a801b8d-4029-4fab-b742-2cf4eaa4ab2be-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\1a801b8d-4029-4fab-b742-2cf4eaa4ab2be-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\1e4c9f4e-dac6-4ec4-bc78-21d74e82b5f2WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\1e4c9f4e-dac6-4ec4-bc78-21d74e82b5f2WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\205882d2-786a-48f9-8d78-be61348fd1d9WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\205882d2-786a-48f9-8d78-be61348fd1d9WhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\210e036b-7ec5-43e3-9bd1-fee6302cfc43H.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\210e036b-7ec5-43e3-9bd1-fee6302cfc43H.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\213863d0-c1af-47a8-8989-ab1de7efc19bWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\213863d0-c1af-47a8-8989-ab1de7efc19bWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\22df2051-9240-4614-991f-ef5bd22c366blibrary.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\22df2051-9240-4614-991f-ef5bd22c366blibrary.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2324299f-0fb8-426f-af4b-bc3b16a65f1alibrary.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\2324299f-0fb8-426f-af4b-bc3b16a65f1alibrary.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\26d98e23-f5a2-4be7-b3e0-2c8f49e155d8Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\26d98e23-f5a2-4be7-b3e0-2c8f49e155d8Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\27a5d56c-8c27-439f-a1a5-decbc7721cdfdownload (1).jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\27a5d56c-8c27-439f-a1a5-decbc7721cdfdownload (1).jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2816c937-eb22-41f2-9333-20a467365be1WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\2816c937-eb22-41f2-9333-20a467365be1WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2846a90f-0f50-4dad-9bba-84f340615cb6.png",
+      "PackagePath": "staticwebassets\\images\\2846a90f-0f50-4dad-9bba-84f340615cb6.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2a7ffc67-61b5-4431-92f5-f343159d9fabH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\2a7ffc67-61b5-4431-92f5-f343159d9fabH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2be7fc8e-3611-46bc-b4c5-3dd22ed4d2bdWhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\2be7fc8e-3611-46bc-b4c5-3dd22ed4d2bdWhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2d57fca5-9a61-403f-a687-ab686a797de3images-removebg-preview-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\2d57fca5-9a61-403f-a687-ab686a797de3images-removebg-preview-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2da67e35-3cfa-43b7-929e-3c9bee58ac4cE-kitabxana.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\2da67e35-3cfa-43b7-929e-3c9bee58ac4cE-kitabxana.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2e0883e2-faa9-44c1-9d18-6673cd93c316.jpg",
+      "PackagePath": "staticwebassets\\images\\2e0883e2-faa9-44c1-9d18-6673cd93c316.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\2f3168ca-bee5-4691-a499-c6a28002e7a1images.png.png",
+      "PackagePath": "staticwebassets\\images\\2f3168ca-bee5-4691-a499-c6a28002e7a1images.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3094bfc2-bdad-4265-9103-8e0cce3876d6H.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3094bfc2-bdad-4265-9103-8e0cce3876d6H.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\334babd6-4f32-420c-8aca-2d86f5b65fdde-kitabxana(2).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\334babd6-4f32-420c-8aca-2d86f5b65fdde-kitabxana(2).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\346846fa-3ef9-46cd-9558-ad88ad08f39bWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\346846fa-3ef9-46cd-9558-ad88ad08f39bWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\36768bf3-e42a-4145-88fd-41239c59d9b0.png",
+      "PackagePath": "staticwebassets\\images\\36768bf3-e42a-4145-88fd-41239c59d9b0.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\36a16b94-a47f-4dc1-94a2-f7f517a940f5WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\36a16b94-a47f-4dc1-94a2-f7f517a940f5WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3746c700-5f7d-45b6-97ad-76577473e0aee-kitabxana(2).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3746c700-5f7d-45b6-97ad-76577473e0aee-kitabxana(2).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3a379df9-2543-43ea-86da-783dc108a1b3HIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3a379df9-2543-43ea-86da-783dc108a1b3HIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3a80d2ba-6163-4775-b3be-26df17ec0c47Hİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\3a80d2ba-6163-4775-b3be-26df17ec0c47Hİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3a8496c5-7b26-4585-8121-f722647e267cWhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3a8496c5-7b26-4585-8121-f722647e267cWhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3aa9797e-a675-4d39-aa31-3b05f9ca8ea4e-kitabxana(2).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3aa9797e-a675-4d39-aa31-3b05f9ca8ea4e-kitabxana(2).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3accdab1-e3e9-4900-998b-fa3d8b7c728eWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\3accdab1-e3e9-4900-998b-fa3d8b7c728eWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3cb8bcc0-498a-4a7c-9115-616198320e35WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\3cb8bcc0-498a-4a7c-9115-616198320e35WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3f7b5613-aa07-4d27-8679-635398cf78a5e-kitabxana(2).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3f7b5613-aa07-4d27-8679-635398cf78a5e-kitabxana(2).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\3fe407ad-6b71-49b5-b54a-e379eb7159e0WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\3fe407ad-6b71-49b5-b54a-e379eb7159e0WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\406a1fa6-9175-43e5-90cd-822cfc0d7d46.png",
+      "PackagePath": "staticwebassets\\images\\406a1fa6-9175-43e5-90cd-822cfc0d7d46.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\431c73e9-23d0-47a5-80a4-bdd0f0528b27da21936d5e64034212bc5df85561734c.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\431c73e9-23d0-47a5-80a4-bdd0f0528b27da21936d5e64034212bc5df85561734c.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\43b12ee4-e54d-4f66-8e4b-21571ccfa795WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\43b12ee4-e54d-4f66-8e4b-21571ccfa795WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\451226dd-24bd-43d7-9cc5-7a11ad86f337.jpg",
+      "PackagePath": "staticwebassets\\images\\451226dd-24bd-43d7-9cc5-7a11ad86f337.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\4597fd0a-8e16-4dce-b77b-54a809ca9fe7.png",
+      "PackagePath": "staticwebassets\\images\\4597fd0a-8e16-4dce-b77b-54a809ca9fe7.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\474d855f-3185-41af-a4fc-08cd6f6004a2WhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\474d855f-3185-41af-a4fc-08cd6f6004a2WhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\48c64a62-7a31-43b6-8bdf-794ad028f2cbHİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\48c64a62-7a31-43b6-8bdf-794ad028f2cbHİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\4947f6f4-8fad-4254-b244-4be5500ccf6bda21936d5e64034212bc5df85561734c.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\4947f6f4-8fad-4254-b244-4be5500ccf6bda21936d5e64034212bc5df85561734c.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\4a20f4fa-3725-448e-afdf-e2711a7fc48fE-kitabxana.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\4a20f4fa-3725-448e-afdf-e2711a7fc48fE-kitabxana.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\4c0c949c-932e-4059-b6a4-ed3cc73f9178images-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\4c0c949c-932e-4059-b6a4-ed3cc73f9178images-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\51f10e57-bf4d-434e-9b08-7488b3a2926ae-kitabxana(2).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\51f10e57-bf4d-434e-9b08-7488b3a2926ae-kitabxana(2).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\536104ec-1c6d-4138-8e78-dae93db2f916e-kitabxana(2).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\536104ec-1c6d-4138-8e78-dae93db2f916e-kitabxana(2).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\53e2c53c-7c99-4a19-8ab9-5fe854eb4652.png",
+      "PackagePath": "staticwebassets\\images\\53e2c53c-7c99-4a19-8ab9-5fe854eb4652.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\542c4ebd-9037-4a7f-b6bd-1d42cc2bca0dH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\542c4ebd-9037-4a7f-b6bd-1d42cc2bca0dH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5606e7af-d7c6-4440-a238-5f95ca15a85cE-kitabxana.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5606e7af-d7c6-4440-a238-5f95ca15a85cE-kitabxana.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\571be7fc-92c7-4af6-8cb7-b5cc48e4d954.jpg",
+      "PackagePath": "staticwebassets\\images\\571be7fc-92c7-4af6-8cb7-b5cc48e4d954.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5c00df0c-a35d-4aab-bcce-b7aef6d2ee9aHII.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5c00df0c-a35d-4aab-bcce-b7aef6d2ee9aHII.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5d34eb77-c432-43b0-98d5-70e2bbf070cbe-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5d34eb77-c432-43b0-98d5-70e2bbf070cbe-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5db99e99-6c23-4aa2-b75e-2fd9d369b2f8minimalist icon.png.png",
+      "PackagePath": "staticwebassets\\images\\5db99e99-6c23-4aa2-b75e-2fd9d369b2f8minimalist icon.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5dc50747-296d-4a7c-af2b-d7a8dc20f8feWhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5dc50747-296d-4a7c-af2b-d7a8dc20f8feWhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5e68be53-5da9-4669-8367-080a9b94b783library.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5e68be53-5da9-4669-8367-080a9b94b783library.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\5ee739ee-d07c-4efe-a839-866072d94451HIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\5ee739ee-d07c-4efe-a839-866072d94451HIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\6069cb10-25ef-4487-bf64-39437819bf5dWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\6069cb10-25ef-4487-bf64-39437819bf5dWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\635e857d-95d0-40a9-a120-7192f9745a91WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\635e857d-95d0-40a9-a120-7192f9745a91WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\65c9fcd9-c09f-4977-a753-a46d4b030cf6.jpg",
+      "PackagePath": "staticwebassets\\images\\65c9fcd9-c09f-4977-a753-a46d4b030cf6.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\6697fc05-b1d4-486d-a276-02d74dffb37aH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\6697fc05-b1d4-486d-a276-02d74dffb37aH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\6bdafcb2-a9d4-4fa4-8cdc-3f4b404b80ecHİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\6bdafcb2-a9d4-4fa4-8cdc-3f4b404b80ecHİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\6fb51075-4d74-43aa-b75f-3f3a4ab8e2c8Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\6fb51075-4d74-43aa-b75f-3f3a4ab8e2c8Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\70d14fe5-7826-4931-b1fe-efe17bfab7e3WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\70d14fe5-7826-4931-b1fe-efe17bfab7e3WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\73af32e6-0126-4dff-9e26-be6ec4d47410Hİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\73af32e6-0126-4dff-9e26-be6ec4d47410Hİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\74f5e8dc-4b76-42b8-91f7-f11f7696cb0b.png",
+      "PackagePath": "staticwebassets\\images\\74f5e8dc-4b76-42b8-91f7-f11f7696cb0b.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\75255d50-c168-42bd-964d-2db0289c9f82WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\75255d50-c168-42bd-964d-2db0289c9f82WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\754f40bd-20fc-462e-9635-7e5a63ebd7ecWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\754f40bd-20fc-462e-9635-7e5a63ebd7ecWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\75d76e48-835e-4bfe-af50-9e4596ad916eWhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\75d76e48-835e-4bfe-af50-9e4596ad916eWhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\764bc907-d057-40b5-8404-dd2e49bc86e5WhatsApp Image 2024-12-10 at 09.30.37_4fb7762d.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\764bc907-d057-40b5-8404-dd2e49bc86e5WhatsApp Image 2024-12-10 at 09.30.37_4fb7762d.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\77861eb0-a2ef-4658-b8a3-e5bd079ed100images-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\77861eb0-a2ef-4658-b8a3-e5bd079ed100images-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\7885c5f1-393e-429a-a037-d9de85f442c3HIIBuild(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\7885c5f1-393e-429a-a037-d9de85f442c3HIIBuild(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\80395c42-fd1b-4fa4-8c70-d3d0110b2df6HII.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\80395c42-fd1b-4fa4-8c70-d3d0110b2df6HII.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\817b4401-e039-4bf2-bc90-d0a6b2424d99.png",
+      "PackagePath": "staticwebassets\\images\\817b4401-e039-4bf2-bc90-d0a6b2424d99.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\86dd9a19-e672-440c-90df-91e1892ca28cHİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\86dd9a19-e672-440c-90df-91e1892ca28cHİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\8bc5a846-c90d-4a6f-9d4b-120e62ab597fHIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\8bc5a846-c90d-4a6f-9d4b-120e62ab597fHIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\8d8e8722-0c3e-4628-b4aa-b9a810d2c878WhatsApp Image 2024-12-06 at 11.48.02_23696a82.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\8d8e8722-0c3e-4628-b4aa-b9a810d2c878WhatsApp Image 2024-12-06 at 11.48.02_23696a82.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\8da11333-2fb3-4f15-9e15-e9adc17989ffe-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\8da11333-2fb3-4f15-9e15-e9adc17989ffe-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\8f1c646b-8d38-4887-bfe3-4efd16745917WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\8f1c646b-8d38-4887-bfe3-4efd16745917WhatsApp Image 2024-12-10 at 09.30.38_0ad4d175.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\8fe8bb44-c402-4e63-8274-f689fa833bfbe-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\8fe8bb44-c402-4e63-8274-f689fa833bfbe-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\937c51c6-0e31-4505-8b89-4fc9ce1dafa2H.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\937c51c6-0e31-4505-8b89-4fc9ce1dafa2H.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\939954fa-3362-4be8-8a9f-3215fab88f15H.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\939954fa-3362-4be8-8a9f-3215fab88f15H.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\94b58e34-a907-4dc6-86ea-e4a8d6e8631dWhatsApp Image 2024-12-10 at 09.30.37_6e51ff4f.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\94b58e34-a907-4dc6-86ea-e4a8d6e8631dWhatsApp Image 2024-12-10 at 09.30.37_6e51ff4f.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\97611685-a05f-497c-a541-7cedef8dc633HIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\97611685-a05f-497c-a541-7cedef8dc633HIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\9975a2f4-f691-4795-ac02-7357bdd8d51c.png",
+      "PackagePath": "staticwebassets\\images\\9975a2f4-f691-4795-ac02-7357bdd8d51c.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\9a143287-0ff2-4094-b303-01c698f26f10WhatsApp Image 2024-12-10 at 09.30.36_3b73afd2.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\9a143287-0ff2-4094-b303-01c698f26f10WhatsApp Image 2024-12-10 at 09.30.36_3b73afd2.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\9f01e88f-6593-4f50-8249-a4b3b03f45f3WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\9f01e88f-6593-4f50-8249-a4b3b03f45f3WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\9f1c50d2-e666-4149-bef7-7b08ae1fc265WhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\9f1c50d2-e666-4149-bef7-7b08ae1fc265WhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\9fce5dac-3c9c-4682-a085-2987bbb34f41WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\9fce5dac-3c9c-4682-a085-2987bbb34f41WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a0fda4da-16b9-440e-bfc9-51ed2941c569WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\a0fda4da-16b9-440e-bfc9-51ed2941c569WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a1e113a6-8f29-405c-8a4d-84f54c86e300e-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\a1e113a6-8f29-405c-8a4d-84f54c86e300e-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a3b8f25a-3bba-4b21-9ac9-e7f1a5c8baccMMU-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\a3b8f25a-3bba-4b21-9ac9-e7f1a5c8baccMMU-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a592d472-4195-4fc9-939d-fd369f2b2965WhatsApp Image 2024-12-10 at 09.30.37_6e51ff4f.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\a592d472-4195-4fc9-939d-fd369f2b2965WhatsApp Image 2024-12-10 at 09.30.37_6e51ff4f.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a5b5c127-968c-4326-857a-51bbfea14163E-kitabxana.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\a5b5c127-968c-4326-857a-51bbfea14163E-kitabxana.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a78fee78-07e0-497b-bc66-1716977fabf2WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\a78fee78-07e0-497b-bc66-1716977fabf2WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\a98d468c-a0f7-49ce-849b-f1773ceb5f79Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\a98d468c-a0f7-49ce-849b-f1773ceb5f79Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\aa3cd8ea-eacc-4bcf-9902-412fc32b2ce2WhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\aa3cd8ea-eacc-4bcf-9902-412fc32b2ce2WhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\aa76364b-0917-4ae5-9dcf-95ae1ee08e00Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\aa76364b-0917-4ae5-9dcf-95ae1ee08e00Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\aae0dbeb-2368-445f-810a-8e1e9aebc42cHII.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\aae0dbeb-2368-445f-810a-8e1e9aebc42cHII.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\adacaeee-c324-4479-82a8-08394c8e8febWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\adacaeee-c324-4479-82a8-08394c8e8febWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\af62bb81-ce32-4ee7-b0d5-bfc73ac5d96eH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\af62bb81-ce32-4ee7-b0d5-bfc73ac5d96eH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b091c6c9-c76c-4341-9cb4-bd6d19784945WhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\b091c6c9-c76c-4341-9cb4-bd6d19784945WhatsApp Image 2024-11-29 at 13.11.54_fc27d407.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b2dbea3b-f113-407b-a9c0-2b1186756ecbHİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\b2dbea3b-f113-407b-a9c0-2b1186756ecbHİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b3796837-5544-4fc8-86d2-3576265c26d1.jpg",
+      "PackagePath": "staticwebassets\\images\\b3796837-5544-4fc8-86d2-3576265c26d1.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b4e3537a-42fe-4de0-b191-4d7d98eba2fbWhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\b4e3537a-42fe-4de0-b191-4d7d98eba2fbWhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b718185d-1884-426a-b789-80d821134edfdownload.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\b718185d-1884-426a-b789-80d821134edfdownload.jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b7f2ad46-ec3f-4ca6-ba2c-973ed0be9962Hİİ.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\b7f2ad46-ec3f-4ca6-ba2c-973ed0be9962Hİİ.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b8c806fd-7f72-40da-bcf3-a6dbf75ced42.png",
+      "PackagePath": "staticwebassets\\images\\b8c806fd-7f72-40da-bcf3-a6dbf75ced42.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b8ca4fdf-9469-43b1-b40c-d2363ae383d3HII.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\b8ca4fdf-9469-43b1-b40c-d2363ae383d3HII.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b96ace7d-9cc1-4556-ad86-a6b44c19f0fbHİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\b96ace7d-9cc1-4556-ad86-a6b44c19f0fbHİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\b9ec4292-404f-49a6-97a2-58f5eaabd7a7WhatsApp Image 2024-12-06 at 11.48.02_23696a82.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\b9ec4292-404f-49a6-97a2-58f5eaabd7a7WhatsApp Image 2024-12-06 at 11.48.02_23696a82.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\ba1fd418-f638-4840-9c94-29c1729e7a37WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\ba1fd418-f638-4840-9c94-29c1729e7a37WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\bb8054f1-2de7-4735-8b95-8e2a47b21324library(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\bb8054f1-2de7-4735-8b95-8e2a47b21324library(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\bbe398ae-1127-45ec-b2ab-83a45f43fbf1HII.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\bbe398ae-1127-45ec-b2ab-83a45f43fbf1HII.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\bc76ded4-67d6-43d7-9083-17bc6b15a4e6.jpg",
+      "PackagePath": "staticwebassets\\images\\bc76ded4-67d6-43d7-9083-17bc6b15a4e6.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\bd9e12d6-0cf0-4f1d-9daf-0ff6b0009fb4WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\bd9e12d6-0cf0-4f1d-9daf-0ff6b0009fb4WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\befcf20a-6e99-4dfa-92ad-021a2f8e25d3WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\befcf20a-6e99-4dfa-92ad-021a2f8e25d3WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\bfbac3ed-ef90-4536-81f8-b793be3bc9b4HIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\bfbac3ed-ef90-4536-81f8-b793be3bc9b4HIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c0904a30-5499-404f-8cb5-b72ce0fb3f4cda21936d5e64034212bc5df85561734c.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\c0904a30-5499-404f-8cb5-b72ce0fb3f4cda21936d5e64034212bc5df85561734c.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c0d03b04-ee8b-4f24-9cec-53f1dab06437italia.png.png",
+      "PackagePath": "staticwebassets\\images\\c0d03b04-ee8b-4f24-9cec-53f1dab06437italia.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c3638ec3-95e7-478a-b51a-06d3e9840affWhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\c3638ec3-95e7-478a-b51a-06d3e9840affWhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c506ab0c-2e50-4d86-8533-e9daab39d9b4.png",
+      "PackagePath": "staticwebassets\\images\\c506ab0c-2e50-4d86-8533-e9daab39d9b4.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c5490a95-93fd-49c6-8544-e91f7aa198abHİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\c5490a95-93fd-49c6-8544-e91f7aa198abHİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c69ecb00-e566-495c-a8d6-037cdb6893b2WhatsApp Image 2024-12-06 at 11.48.02_23696a82.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\c69ecb00-e566-495c-a8d6-037cdb6893b2WhatsApp Image 2024-12-06 at 11.48.02_23696a82.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c790f449-4d8e-4ddd-b7f2-5dbc7d5e64a9WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\c790f449-4d8e-4ddd-b7f2-5dbc7d5e64a9WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\c8b2bdd8-3ea2-4636-b144-2368bb079c4fWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\c8b2bdd8-3ea2-4636-b144-2368bb079c4fWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\cb753b6f-8b09-466d-983d-74182967aa36e-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\cb753b6f-8b09-466d-983d-74182967aa36e-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\cbee63c2-6713-44b5-bad4-0e29601525fde-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\cbee63c2-6713-44b5-bad4-0e29601525fde-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\d0ecdfa1-70ba-49d5-9cbb-9d475c39babe.png",
+      "PackagePath": "staticwebassets\\images\\d0ecdfa1-70ba-49d5-9cbb-9d475c39babe.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\d76cadef-77f1-4fd7-b6f6-e3902028162cWhatsApp Image 2024-12-10 at 09.30.36_3b73afd2.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\d76cadef-77f1-4fd7-b6f6-e3902028162cWhatsApp Image 2024-12-10 at 09.30.36_3b73afd2.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\d7771f54-216f-458f-a54c-1011f69c2839WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\d7771f54-216f-458f-a54c-1011f69c2839WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\d902a2dd-3032-45fd-88b2-c86036366337da21936d5e64034212bc5df85561734c.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\d902a2dd-3032-45fd-88b2-c86036366337da21936d5e64034212bc5df85561734c.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\dab5b594-74b3-4142-b662-3eb8cdd9fd3edownload (1).jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\dab5b594-74b3-4142-b662-3eb8cdd9fd3edownload (1).jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\daecf0f0-0000-4803-84ec-3aa53e395836library(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\daecf0f0-0000-4803-84ec-3aa53e395836library(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\ddba4859-5d54-42da-8644-46f10409fb4fWhatsApp Image 2024-12-10 at 09.30.36_b9ad1cf2.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\ddba4859-5d54-42da-8644-46f10409fb4fWhatsApp Image 2024-12-10 at 09.30.36_b9ad1cf2.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\de825976-d2e4-417c-89ba-b14344e41a0d.png",
+      "PackagePath": "staticwebassets\\images\\de825976-d2e4-417c-89ba-b14344e41a0d.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\defbeca1-935b-4b9f-9bcb-1d625da82782WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\defbeca1-935b-4b9f-9bcb-1d625da82782WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\df965b63-3966-4585-b87a-2e3835c54c69download.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\df965b63-3966-4585-b87a-2e3835c54c69download.jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\dfee4448-1135-49c1-9786-9f924a929038MMU-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\dfee4448-1135-49c1-9786-9f924a929038MMU-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\e1a5e252-de6d-42da-a072-c0e68a9907dfimages-removebg-preview-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\e1a5e252-de6d-42da-a072-c0e68a9907dfimages-removebg-preview-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\e29bb47d-e878-43c9-80f9-946d04a96a2bWhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\e29bb47d-e878-43c9-80f9-946d04a96a2bWhatsApp Image 2024-12-06 at 11.48.02_2e44c209.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\e49ad752-b948-439a-9007-0de38f27de19HIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\e49ad752-b948-439a-9007-0de38f27de19HIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\e5ff894d-b49d-4971-8156-fb7224115809WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\e5ff894d-b49d-4971-8156-fb7224115809WhatsApp Image 2024-12-10 at 09.30.38_4d9d3aba.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\e77eef49-cdb0-4a7c-8a94-90c614f6fb21WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\e77eef49-cdb0-4a7c-8a94-90c614f6fb21WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\e7dfc6c6-2f5a-4034-83c1-f35069168cf5pvXgA.png.png",
+      "PackagePath": "staticwebassets\\images\\e7dfc6c6-2f5a-4034-83c1-f35069168cf5pvXgA.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\eb55f75c-6677-4a24-8e22-914be589b4a2HIIbinasi.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\eb55f75c-6677-4a24-8e22-914be589b4a2HIIbinasi.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\eca92bae-daad-4a23-a6b7-910b0aeeaa0dH.Aliyev.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\eca92bae-daad-4a23-a6b7-910b0aeeaa0dH.Aliyev.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\ee47b1c9-bd5b-4a72-9ad2-a00c668ded83WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\ee47b1c9-bd5b-4a72-9ad2-a00c668ded83WhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\eea9a6db-023e-432e-8ed9-978493d80d53HII-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\eea9a6db-023e-432e-8ed9-978493d80d53HII-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f0c2aa4c-8169-4668-be2b-ea37070da4c1WhatsApp Image 2024-12-10 at 09.30.36_b9ad1cf2.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\f0c2aa4c-8169-4668-be2b-ea37070da4c1WhatsApp Image 2024-12-10 at 09.30.36_b9ad1cf2.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f1366179-5b48-4096-85a9-109e3de6a1e8download (1).jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\f1366179-5b48-4096-85a9-109e3de6a1e8download (1).jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f4db5b7c-3992-4fae-b729-e2f5005c7283WhatsApp Image 2024-12-10 at 09.30.37_4fb7762d.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\f4db5b7c-3992-4fae-b729-e2f5005c7283WhatsApp Image 2024-12-10 at 09.30.37_4fb7762d.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f5d277ab-cf63-488a-8194-bfde0f5fdfe2images.png.png",
+      "PackagePath": "staticwebassets\\images\\f5d277ab-cf63-488a-8194-bfde0f5fdfe2images.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f7c5914e-e027-4baf-a78f-5ceb197b571bWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\f7c5914e-e027-4baf-a78f-5ceb197b571bWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f80ccec1-2d36-459a-9c82-da6d2503bbd6HII.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\f80ccec1-2d36-459a-9c82-da6d2503bbd6HII.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f9aafcf0-e40a-4e77-a716-c33b11a7b76aWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png",
+      "PackagePath": "staticwebassets\\images\\f9aafcf0-e40a-4e77-a716-c33b11a7b76aWhatsApp_Image_2024-12-06_at_11.48.02_2e44c209-removebg-preview.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\f9e09ad1-44ea-4707-bc6e-3c5b3466e435download.jpeg.jpeg",
+      "PackagePath": "staticwebassets\\images\\f9e09ad1-44ea-4707-bc6e-3c5b3466e435download.jpeg.jpeg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\faf2ed57-7824-4e0a-b580-d94a15827c4fe-kitabxana(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\faf2ed57-7824-4e0a-b580-d94a15827c4fe-kitabxana(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\faf629e7-08b5-4a48-a791-bddbe903e015Hİİ-logo-2022-01_114831-1.png.png",
+      "PackagePath": "staticwebassets\\images\\faf629e7-08b5-4a48-a791-bddbe903e015Hİİ-logo-2022-01_114831-1.png.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\fbd670f5-479f-4088-a8ac-d2ca8ec1da97HIIBuild(1).jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\fbd670f5-479f-4088-a8ac-d2ca8ec1da97HIIBuild(1).jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\fbd783dd-4ae5-40a1-9960-0d08ec86b4f9.png",
+      "PackagePath": "staticwebassets\\images\\fbd783dd-4ae5-40a1-9960-0d08ec86b4f9.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\fde0bdd6-c1c8-4a7f-a831-501007bfff5dWhatsApp Image 2024-12-06 at 11.08.58_14dc8878.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\fde0bdd6-c1c8-4a7f-a831-501007bfff5dWhatsApp Image 2024-12-06 at 11.08.58_14dc8878.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\fe6101f9-4178-46e5-8035-b78eaabf20eb.png",
+      "PackagePath": "staticwebassets\\images\\fe6101f9-4178-46e5-8035-b78eaabf20eb.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\fed86779-eafd-4e02-9a33-a0dd1d9c34edWhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\fed86779-eafd-4e02-9a33-a0dd1d9c34edWhatsApp Image 2024-12-10 at 09.30.38_03841d3a.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\ff175346-660e-4757-8fd8-aa64b9130914.png",
+      "PackagePath": "staticwebassets\\images\\ff175346-660e-4757-8fd8-aa64b9130914.png"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\images\\ff880098-4022-4ff1-a5f0-4e1addba0fe5WhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\ff880098-4022-4ff1-a5f0-4e1addba0fe5WhatsApp Image 2024-12-10 at 09.30.36_e65ab132.jpg.jpg"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\main.bcf874915b1839d3.js",
+      "PackagePath": "staticwebassets\\main.bcf874915b1839d3.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\polyfills.ec08020be82fac9d.js",
+      "PackagePath": "staticwebassets\\polyfills.ec08020be82fac9d.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\runtime.0831f8eb6c37dd84.js",
+      "PackagePath": "staticwebassets\\runtime.0831f8eb6c37dd84.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\scripts.02284eea6308d663.js",
+      "PackagePath": "staticwebassets\\scripts.02284eea6308d663.js"
+    },
+    {
+      "Id": "D:\\MMU\\Backend\\HII\\API\\wwwroot\\styles.7440b96d47c59db5.css",
+      "PackagePath": "staticwebassets\\styles.7440b96d47c59db5.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

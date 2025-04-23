@@ -1,0 +1,122 @@
+<div class="background-image">
+    <div class="overlay"></div>
+    <div class="content">
+      <form [formGroup]="registerForm" (ngSubmit)="onSubmit()" class="needs-validation">
+        <h2 class="text-white mb-4">Qeydiyyat</h2>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="userName"
+              formControlName="userName"
+              type="text"
+              placeholder="İstifadəçi adı"
+            />
+          </div>
+          <div *ngIf="registerForm.get('userName')?.invalid && registerForm.get('userName')?.touched" class="text-danger small mt-1">
+            İstifadəçi adı yazmağınız tələb olunur.
+          </div>
+        </div>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="email"
+              formControlName="email"
+              type="email"
+              placeholder="Email"
+            />
+          </div>
+          <div *ngIf="registerForm.get('email')?.invalid && registerForm.get('email')?.touched" class="text-danger small mt-1">
+            Email yazmağınız tələb olunur.
+          </div>
+        </div>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="name"
+              formControlName="name"
+              type="text"
+              placeholder="Ad"
+            />
+          </div>
+          <div *ngIf="registerForm.get('name')?.invalid && registerForm.get('name')?.touched" class="text-danger small mt-1">
+            Ad yazmağınız tələb olunur
+          </div>
+        </div>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="surname"
+              formControlName="surname"
+              type="text"
+              placeholder="Soyad"
+            />
+          </div>
+          <div *ngIf="registerForm.get('surname')?.invalid && registerForm.get('surname')?.touched" class="text-danger small mt-1">
+            Soyad yazmağınız tələb olunur.
+          </div>
+        </div>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="birthDate"
+              formControlName="birthDate"
+              type="date"
+              placeholder="Doğum Tarixi"
+            />
+          </div>
+          <div *ngIf="registerForm.get('birthDate')?.invalid && registerForm.get('birthDate')?.touched" class="text-danger small mt-1">
+            Doğum tarixi yazmağınız tələb olunur.
+          </div>
+        </div>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="password"
+              formControlName="password"
+              type="password"
+              placeholder="Parol"
+            />
+          </div>
+          <div *ngIf="registerForm.get('password')?.invalid && registerForm.get('password')?.touched" class="text-danger small mt-1">
+            <!-- Password must be at least 6 characters and include one uppercase letter, one number, and one special character. -->
+            Parolunuz minimum 6 hərf və 1 böyük hərf, 1 rəqəm və 1 xüsusi seçilmiş simvol daxil etməlisiz.
+          </div>
+        </div>
+  
+        <div class="mb-3">
+          <div class="form-floating d-flex justify-content-center">
+            <input
+              class="form-control w-50"
+              id="confirmPassword"
+              formControlName="confirmPassword"
+              type="password"
+              placeholder="Eyni Parol"
+            />
+          </div>
+          <div *ngIf="registerForm.get('confirmPassword')?.invalid && registerForm.get('confirmPassword')?.touched" class="text-danger small mt-1">
+            <!-- Confirmation Password must match the Password. -->
+            Daxil etdiyiniz parol ilə uyğun deyil.
+          </div>
+        </div>
+  
+        <div class="d-flex justify-content-center">
+          <button type="submit" class="btn btn-primary btn-lg w-50" [disabled]="registerForm.invalid">
+            Register
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+  

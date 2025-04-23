@@ -1,0 +1,55 @@
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Yeni Home Yarat</h2>
+    <form [formGroup]="homeForm" (ngSubmit)="submitForm()" class="needs-validation" novalidate>
+      <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input 
+          id="title" 
+          formControlName="title" 
+          type="text" 
+          class="form-control" 
+          placeholder="Enter home title" 
+          required 
+        />
+        <div *ngIf="homeForm.get('title')?.invalid && homeForm.get('title')?.touched" class="text-danger">
+          Titul boş ola bilməz.
+        </div>
+      </div>
+  
+      <div class="mb-3">
+        <label for="description" class="form-label">Description</label>
+        <textarea 
+          id="description" 
+          formControlName="description" 
+          class="form-control" 
+          rows="4" 
+          placeholder="Enter home description" 
+          required>
+        </textarea>
+        <div *ngIf="homeForm.get('description')?.invalid && homeForm.get('description')?.touched" class="text-danger">
+          Məlumat boş ola bilməz.
+        </div>
+      </div>
+  
+      <div class="mb-3">
+        <label for="photos" class="form-label">Photos</label>
+        <input 
+          id="photos" 
+          type="file" 
+          class="form-control" 
+          multiple 
+          (change)="onFileChange($event)" 
+          required 
+        />
+        <div *ngIf="photosError" class="text-danger">
+          {{ photosError }}
+        </div>
+      </div>
+  
+      <button type="submit" class="btn btn-primary w-100" [disabled]="homeForm.invalid">
+        Daxil et
+      </button>
+    </form>
+  </div>
+  

@@ -1,0 +1,40 @@
+.dashboard-container{
+    display: flex;
+
+}
+.nav-link {
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Change this color as desired */
+  }
+  
+.sidebar{
+    width: 270px;
+    min-height: 1300px;
+    max-height: 2000px;
+    background: linear-gradient(to right, #5a6e4e, #2d3b2f);
+    color:#fff;
+    padding:15px;
+}
+.sidebar ul{
+    list-style: none;
+    padding:0;
+
+}
+.sidebar li a{
+    color:#fff;
+    text-decoration: none;
+    display: block;
+    padding:10px;
+}
+.sideabr li a.active{
+    background-color: #555;
+}
+.main-content{
+    flex:1;
+    padding: 20px;
+    background-color: #f4f4f4;
+}

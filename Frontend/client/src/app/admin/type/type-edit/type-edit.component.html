@@ -1,0 +1,18 @@
+<div class="container mt-5">
+    <h2 class="mb-4" style="text-align: center;">Yenilə Tipin</h2>
+    <form (ngSubmit)="updateType()">
+      <div class="mb-3">
+        <label for="name" class="form-label">Tipi:</label>
+        <input
+          id="name"
+          type="text"
+          class="form-control"
+          [(ngModel)]="type.name"
+          name="name"
+          required
+        />
+      </div>
+      <button type="submit" class="btn btn-primary">Tipin Yenilə</button>
+    </form>
+  </div>
+  

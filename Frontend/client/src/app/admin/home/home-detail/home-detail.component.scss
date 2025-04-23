@@ -1,0 +1,9 @@
+.imageslide {
+  object-fit: cover;
+  width: 100%;
+  height: 400px; // Görsellerin yüksekliği
+}
+
+.carousel-inner {
+  overflow: hidden;
+}

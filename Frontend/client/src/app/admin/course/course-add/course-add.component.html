@@ -1,0 +1,51 @@
+<div class="container mt-1">
+    <div class="card shadow">
+      <div class="card-header bg-primary text-white">
+        <h2 class="text-center mb-0">Yeni Kitab Yarat</h2>
+      </div>
+      <div class="card-body">
+        <form (ngSubmit)="addCourse()" #typeForm="ngForm">
+          <div class="mb-3">
+            <label for="name" class="form-label">Qısa Adı</label>
+            <input
+              id="name"
+              type="text"
+              class="form-control"
+              [(ngModel)]="course.title"
+              name="name"
+              placeholder="Kursun qısa adı"
+              required
+              #title="ngModel"
+            />
+            <div *ngIf="course.title.touched && course.title.invalid" class="text-danger">
+                Qısa Adın yazmağınız tələb olunur.
+            </div>
+          </div>
+
+          <div class="mb-3">
+            <label for="name" class="form-label">Uzadılmış Adı</label>
+            <input
+              id="name"
+              type="text"
+              class="form-control"
+              [(ngModel)]="course.description"
+              name="name"
+              placeholder="Kursun Uzadılmış adı "
+              required
+              #title="ngModel"
+            />
+            <div *ngIf="course.description.touched && course.description.invalid" class="text-danger">
+                Uzadılmış adın yazmağınız tələb olunur.
+            </div>
+          </div>
+  
+          <div class="d-grid">
+            <button type="submit" class="btn btn-primary btn-block" [disabled]="typeForm.invalid">
+              Daxil et
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  

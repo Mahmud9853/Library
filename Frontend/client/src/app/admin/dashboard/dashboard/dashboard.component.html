@@ -1,0 +1,70 @@
+<!-- *ngIf="role === 'Admin' || role === 'Client'" -->
+<div class="dashboard-container" >
+    <aside class="sidebar">
+      <span id="oc" onclick="openclose" style="font-size:20px"><strong>{{username}}</strong></span>
+       
+    <ul>
+        <li class="nav-item">
+            <a routerLink="/home"
+            routerLinkActive="active" class="nav-link">Ana Səhifə</a>
+        </li>
+        <li *ngFor="let item of filteredMenuItems" class="nav-item">
+            <a
+              [routerLink]="item.route"
+              routerLinkActive="active"
+              class="nav-link"
+            >
+              {{ item.label }}
+            </a>
+          </li>
+    </ul>
+    <hr class="text-white " style="margin-top: 300px;">
+    <ul class="nav nav-pills flex-column mt-auto">
+        <li class="nav-item">
+            <a [routerLink]="['/admin/support']"  class="nav-link">Texniki Dəstək</a>
+        </li>
+        <li class="nav-item">
+            <a (click)="logout()" class="nav-link" style="cursor: pointer;" >Çıxış</a>
+        </li>
+    </ul>
+    </aside>    
+
+    <main class="main-content">
+        <div class="container-fluid">
+            <h1 class="text-center">E-Kitabxana</h1>
+            <div class="row ">
+                <div class="col-md-6 my-4">
+                    <h3 class="text-center my-2">Kitab</h3>
+                    <div class="circle">
+                      <div style="margin: 105px 60px; color: #000; font-size: 20px;font-weight: bold;">Toplam: {{totalRecordsBook}}</div>
+                    </div>
+                </div>
+                <div class="col-md-6 my-4">
+                        <h3 class="text-center my-2">Tipi</h3>
+                        <div class="circle1">
+                          <div style="margin: 105px 65px; color: rgb(125, 153, 84);; font-size: 20px;font-weight: bold;">Toplam: {{totalRecordsType}}</div>
+                        </div>
+                </div>
+                <div class="col-md-6">
+                        <h3 class="text-center my-2">Müəllifi</h3>
+                        <div class="circle2">
+                          <div style="margin: 105px 70px; color: rgb(7, 107, 141);; font-size: 20px;font-weight: bold;">Toplam: {{totalRecordsAuthors}}</div>
+                        </div>
+                </div>
+                <div class="col-md-6">
+                        <h3 class="text-center my-2">Kateqoriyası</h3>
+                        <div class="circle3">
+                          <div style="margin: 105px 70px; color: rgb(183, 166, 37); font-size: 20px;font-weight: bold;">Toplam: {{totalRecordsCategories}}</div>
+                        </div>
+                </div>
+                <div class="col-md-6 mt-4">
+                  <a  [routerLink]="['/admin/course']" style="text-decoration:none; color:#212529"><h3 class="text-center my-2">Kurslara Hazırlıq</h3>
+                  <div class="circle4">
+                    <div style="margin: 105px 70px; color: rgb(28, 146, 107); font-size: 20px;font-weight: bold;">Toplam: {{totalRecordsCourses}}</div>
+                  </div>
+                </a>
+          </div>
+            </div>
+        </div>
+    </main>
+</div>
