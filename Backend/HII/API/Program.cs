@@ -51,16 +51,22 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-using (var scope = app.Services.CreateScope())
+using var scope = app.Services.CreateScope();
+var services = scope.ServiceProvider;                                   //}
+try
 {
-    var services = scope.ServiceProvider;
-    var context = services.GetRequiredService<StoreContext>();
+    var identityContext = services.GetRequiredService<StoreContext>();
+    var userManager = services.GetRequiredService<UserManager<AppUser>>();
+    var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
 
-    // Veritaban? güncel de?ilse, migrations'? uygula
-    context.Database.Migrate();
-
-    // Seed i?lemleri burada yap?l?r
-    await SeedData.Initialize(services);  // SeedData s?n?f? burada tan?mlanacak
+    await identityContext.Database.MigrateAsync();
+    await AppIdentityDbContextSeed.SeedUsersAndRolesAsync(userManager, roleManager);
+}
+catch (Exception ex)
+{
+    var logger = services.GetRequiredService<ILogger<Program>>();
+    logger.LogError(ex, "An error occurred while seeding the database.");
+    throw;
 }
 
 app.MapFallbackToController("Index", "Fallback");
