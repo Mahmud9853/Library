@@ -1,4 +1,4 @@
-﻿using Core.Entities;
+using Core.Entities;
 using Microsoft.AspNetCore.Identity;
 using System;
 using System.Collections.Generic;
@@ -13,49 +13,60 @@ namespace Infrastructure.Data.SeedData
     {
         public static async Task SeedUsersAndRolesAsync(UserManager<AppUser> userManager, RoleManager<IdentityRole> roleManager)
         {
-          
-                // Seed Roles
-                if (!roleManager.Roles.Any())
+            try
+            {
+                // Lazımi rollar
+                var roles = new[] { "Admin", "Client" };
+
+                foreach (var role in roles)
                 {
-                    string[] roles = new[] { "Admin", "Client" };
-                    foreach (string role in roles)
+                    if (!await roleManager.RoleExistsAsync(role))
                     {
-                        var roleResult = await roleManager.CreateAsync(new IdentityRole(role));
-                        if (roleResult.Succeeded)
-                        {
-                            Console.WriteLine($"Role '{role}' created successfully.");
-                        }
-                        else
-                        {
-                            Console.WriteLine($"Failed to create role '{role}': {string.Join(", ", roleResult.Errors.Select(e => e.Description))}");
-                        }
+                        await roleManager.CreateAsync(new IdentityRole(role));
                     }
                 }
 
-                // Admin kullanıcısını ekle (eğer yoksa)
-                if (!userManager.Users.Any())
+                // Admin istifadəçi yaradılması
+                var adminEmail = "admin@test.com";
+                var adminPassword = "Admin123!"; // Şifrənin strong olması vacibdir
+
+                var adminUser = await userManager.FindByEmailAsync(adminEmail);
+                if (adminUser == null)
                 {
-                    var user = new AppUser
+                    adminUser = new AppUser
                     {
                         UserName = "Admin",
-                        Email = "admin@test.com",
+                        Email = adminEmail,
                         Name = "Admin",
                         Surname = "Adminli",
-                       BirthDate = DateTime.UtcNow.AddHours(4).Date /// UTC saat dilimine göre güncellenmiş
+                        BirthDate = new DateTime(2001, 4, 6),
+                        EmailConfirmed = true
                     };
 
-                    var userResult = await userManager.CreateAsync(user, "Admin123!");
-                    if (userResult.Succeeded)
+                    var createResult = await userManager.CreateAsync(adminUser, adminPassword);
+                    if (createResult.Succeeded)
                     {
-                        // Admin rolünü kullanıcıya ata
-                        await userManager.AddToRoleAsync(user, "Admin");
-                        Console.WriteLine("Admin user created and assigned to role.");
+                        await userManager.AddToRoleAsync(adminUser, "Admin");
                     }
                     else
                     {
-                        Console.WriteLine($"Failed to create admin user: {string.Join(", ", userResult.Errors.Select(e => e.Description))}");
+                        throw new Exception($"Admin user could not be created: {string.Join(", ", createResult.Errors.Select(e => e.Description))}");
                     }
                 }
+                else
+                {
+                    // Əgər Admin user mövcuddursa, amma rolda yoxdursa əlavə edək
+                    if (!await userManager.IsInRoleAsync(adminUser, "Admin"))
+                    {
+                        await userManager.AddToRoleAsync(adminUser, "Admin");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Seeding error: {ex.Message}");
+                throw;
+            }
 
         }
 
